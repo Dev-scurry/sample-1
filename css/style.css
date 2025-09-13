@@ -185,14 +185,36 @@ border-bottom: 8px solid #12141D;
 /* webapp section */
 
 .webapp{
+padding: 60px 100px;
+justify-content: center;
+}
 
+.webtext{
+    display: flex;
+    gap: 70px;
+    
+}
+
+#first{
+font-family: "Lexend Exa", sans-serif;
+font-size: 40px;
+line-height: 56px;
+color: #ffffff;
+letter-spacing: -5px;
 
 }
 
+.switch-container{
+    border: 1px solid black; 
+    color: black;
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
 
 
-
-
+}
 
 
 
